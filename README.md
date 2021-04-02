@@ -1,6 +1,8 @@
 ### Hi there 👋
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=7enTropy7)
+ ![Visitors](https://visitor-badge.glitch.me/badge?page_id=7enTropy7)
+
+I'm an Independent Researcher who happens to be quite passionate about Reinforcement Learning and Robotics.
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/36446402/113449891-6fc35700-941c-11eb-9211-698674347d1f.gif)
 
@@ -14,8 +16,6 @@
 </details>
 
 <!--
-**7enTropy7/7enTropy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
