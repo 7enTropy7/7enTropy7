@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://visitor-badge.glitch.me/badge?page_id=7enTropy7.visitor-badge
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=7enTropy7)
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/36446402/113449891-6fc35700-941c-11eb-9211-698674347d1f.gif)
 
