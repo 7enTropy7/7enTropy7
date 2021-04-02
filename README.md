@@ -1,6 +1,7 @@
 ### Hi there 👋
 
- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=7enTropy7)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Unnikrishnan%20Menon-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/)
+
 
 I'm an Independent Researcher who happens to be quite passionate about Reinforcement Learning and Robotics.
 
