@@ -6,8 +6,10 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Unnikrishnan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=7enTropy7&show_icons=true&hide_border=true" />
+  
+  <a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=7enTropy7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Unnikrishnan's GitHub Stats" />
+</a>
 
 </details>
 
