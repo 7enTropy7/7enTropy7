@@ -4,9 +4,7 @@
 
 I'm an Independent Researcher who happens to be quite passionate about Reinforcement Learning and Robotics.
 
-<p align="center">
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/36446402/113451958-b915a580-9420-11eb-820c-29c3ed302f2c.gif)
-</p>
 
 <details>
   <summary>:zap: Github Stats</summary>
