@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :sparkles:
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Unnikrishnan%20Menon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/)](https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/) [![Gmail Badge](https://img.shields.io/badge/-menon.uk1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:menon.uk1998@gmail.com)](mailto:menon.uk1998@gmail.com)
 
