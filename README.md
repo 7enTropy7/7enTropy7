@@ -1,6 +1,6 @@
 ### Hi there :sparkles:
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-Unnikrishnan%20Menon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/)](https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/) [![Gmail Badge](https://img.shields.io/badge/-menon.uk1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:menon.uk1998@gmail.com)](mailto:menon.uk1998@gmail.com) [![Portfolio](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://7entropy7.github.io)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-Unnikrishnan%20Menon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/)](https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/) [![Gmail Badge](https://img.shields.io/badge/-menon.uk1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:menon.uk1998@gmail.com)](mailto:menon.uk1998@gmail.com) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://7entropy7.github.io)
 
 I'm an Independent Researcher who happens to be quite passionate about Reinforcement Learning and Robotics.
 
